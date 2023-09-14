@@ -1,6 +1,6 @@
 ## ✨ About Me
 
-[![](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)]
+[!(https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)]
 
 ### Hi there! 👋
 - 🌱 I’m currently working on designing, building, and maintaining applications utilizing Java, Spring Boot, React.js, and Cloud services.
