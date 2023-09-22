@@ -1,7 +1,5 @@
 ## ✨ About Me
 
-![](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
-
 ### Hi there! 👋
 - 🌱 I’m currently working on designing, building, and maintaining applications using Java, Spring Boot, React.js, and Cloud services.
 - 🔭 I possess over five years of industry experience in the migration of legacy backend systems to microservices using Node.js. Additionally, I've successfully transitioned legacy websites to adopt a microfrontend architecture.
